@@ -1,3 +1,5 @@
+Live Demo - https://ai-doctor-medicalchatbot-2.onrender.com/
+---
 # 🩺 AI-Doctor Medical Chatbot
 
 An intelligent medical chatbot that can process **text queries** and **medical images** to provide context-aware, multi-modal responses using **GROQ API** and **Meta’s LLaMA models**.
