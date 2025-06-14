@@ -1,7 +1,8 @@
 fastapi
 uvicorn
 jinja2
-python-dotenv
+python-multipart
 requests
 Pillow
 groq
+python-dotenv
