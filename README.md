@@ -1,4 +1,4 @@
-Live Demo - https://ai-doctor-medicalchatbot-2.onrender.com/
+Live Demo - https://ai-doctor-medicalchatbot-proper.onrender.com
 ---
 # 🩺 AI-Doctor Medical Chatbot
 
